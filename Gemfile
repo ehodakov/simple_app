@@ -35,4 +35,5 @@ group :test do
 	gem 'sqlite3-ruby', '1.2.5', :require => 'sqlite3'
 	gem 'rspec-rails', '2.6.1'
 	gem 'webrat'
+	gem 'spork', '0.9.0.rc8'
 end
